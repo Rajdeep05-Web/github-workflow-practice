@@ -21,3 +21,4 @@ This project is used to practice a real-world GitHub workflow:
 - Branching
 - Merging
 - Conflict Resolution
+- Navigation bar
